@@ -17,7 +17,7 @@ It take the 2 input and they put it through a AND gate which turn light on!!!
 Explain how to use your project
 Put input in 
 
-## External hardware 
+## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
 Light up LED
